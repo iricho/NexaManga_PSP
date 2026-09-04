@@ -1,0 +1,13 @@
+build/
+build-*/
+.tools/
+.zig-cache*/
+core_tests.exe
+.vscode/
+.idea/
+*.elf
+*.prx
+*.PBP
+PARAM.SFO
+MANGA/
+graphify-out/
